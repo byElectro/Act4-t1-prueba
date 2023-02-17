@@ -1,3 +1,5 @@
 site_name: Rafa
 docs_dir: docs
 site_dir: md
+theme:
+     name: mkdocs
