@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+# Bienvenido a mi página web
+## Autor: Rafa Mompó
+Esta página va a tractar sobre las mejores **gráficas** y **ratones** para videojuegos:
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Para actualizar la lista de paquetes del sistemas utilizaremos `sudo apt-get update`
 
-## Commands
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fes%2Fimages%2Fsearch%2Finternet%2F&psig=AOvVaw1Wj_cXKnJYnOsak_uwafwx&ust=1676108459647000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLj4jdzUiv0CFQAAAAAdAAAAABAE)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+Estas serían las 3 mejores gráficas por el momento:<br>
+1. Gráfica 3090ti
+2. Gráfica 3090
+3. Grafica 3080ti
+<br>
 
-## Project layout
+Estos serían los 3 mejores ratones del mercado al día de hoy:<br>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- Logitech gpro x superlight wireless
+- Viper Ultimate pro
+- Logitech g503  
+
+
+[Acceder a youtube](hhtps://youtube.com)
+
+| Casco | Marca |
+| ------------ | ---------- |
+| Astro A50 | 350€ |
+| Kimera v2 | 60€  |
+| Xonar X6 | 30€ |
