@@ -27,4 +27,4 @@ Estos serían los 3 mejores ratones del mercado al día de hoy:
 | Kimera v2 | 60€  |
 | Xonar X6 | 30€ |
 
-[Ir a mi segunda pagina](mipaginaweb.md)
+[Ir a mi segunda pagina](./2ndapag/mipaginaweb.md)
