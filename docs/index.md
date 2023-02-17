@@ -26,3 +26,5 @@ Estos serían los 3 mejores ratones del mercado al día de hoy:<br>
 | Astro A50 | 350€ |
 | Kimera v2 | 60€  |
 | Xonar X6 | 30€ |
+
+[Ir a mi segunda pagina](../mipaginaweb.md)
